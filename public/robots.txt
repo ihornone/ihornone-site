@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /now
 
-Sitemap: https://ihornone.com/sitemap.xml
+Sitemap: https://www.ihornone.site/sitemap.xml

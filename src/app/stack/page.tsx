@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Stack — ihornone",
     description: "Full tech stack I work with: React, TypeScript, React Native, Next.js, Tauri, Rust, AI/LLM integrations, and more.",
-    url: "https://ihornone.com/stack",
+    url: "https://www.ihornone.site/stack",
   },
 }
 

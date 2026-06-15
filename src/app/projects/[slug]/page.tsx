@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     openGraph: {
       title: `${project.title} — ihornone`,
       description: project.description,
-      url: `https://ihornone.com/projects/${project.slug}`,
+      url: `https://www.ihornone.site/projects/${project.slug}`,
     },
   }
 }
