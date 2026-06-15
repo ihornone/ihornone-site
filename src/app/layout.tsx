@@ -8,7 +8,7 @@ import ScrollProgress from "@/components/ScrollProgress"
 import PageTransition from "@/components/PageTransition"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ihornone.com"),
+  metadataBase: new URL("https://www.ihornone.site"),
   title: "ihornone — Full-Stack Developer",
   description: "ihornone — independent full-stack developer building mobile, web, and desktop apps with React, TypeScript, React Native, and Rust.",
   keywords: ["full-stack developer", "React", "TypeScript", "React Native", "Rust", "Tauri", "mobile apps", "web development"],
