@@ -17,9 +17,9 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "ihornone",
     locale: "en_US",
-    images: [{ url: "/og-image.svg", width: 1200, height: 630 }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
   },
-  twitter: { card: "summary_large_image", images: "/og-image.svg" },
+  twitter: { card: "summary_large_image", images: "/og-image.png" },
   robots: { index: true, follow: true },
 }
 
